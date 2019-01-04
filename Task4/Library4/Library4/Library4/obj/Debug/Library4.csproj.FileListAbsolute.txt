@@ -1,0 +1,4 @@
+D:\программирование\2курс\1 семестр\C#\Task4\Library4\Library4\Library4\bin\Debug\Library4.dll
+D:\программирование\2курс\1 семестр\C#\Task4\Library4\Library4\Library4\bin\Debug\Library4.pdb
+D:\программирование\2курс\1 семестр\C#\Task4\Library4\Library4\Library4\obj\Debug\Library4.dll
+D:\программирование\2курс\1 семестр\C#\Task4\Library4\Library4\Library4\obj\Debug\Library4.pdb

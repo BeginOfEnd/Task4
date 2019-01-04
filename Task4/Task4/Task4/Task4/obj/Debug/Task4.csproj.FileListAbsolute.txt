@@ -1,0 +1,11 @@
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\bin\Debug\Task4.exe.config
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\bin\Debug\Task4.exe
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\bin\Debug\Task4.pdb
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\obj\Debug\Task4.MachineForm.resources
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\obj\Debug\Task4.exe
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\obj\Debug\Task4.pdb
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\bin\Debug\Library4.dll
+D:\программирование\2курс\1 семестр\C#\Task4\Task4\Task4\Task4\bin\Debug\Library4.pdb
